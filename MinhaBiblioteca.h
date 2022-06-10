@@ -8,5 +8,7 @@ typedef struct{
 }tNomeQuelquer;
 
 //prototipar a função;
+int NumeroDeTrocas(char *palavra_antiga[1], int numero_elementos, char substituido, char substitui, char *palavra_nova[1]);
+
  
 #endif
