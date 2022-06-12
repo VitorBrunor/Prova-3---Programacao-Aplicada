@@ -1,4 +1,10 @@
 /*
+Nomes da dupla: Daniel Vettorazzi e Vitor Brunor
+*/
+
+
+
+/*
     gcc -c main.c -c biblioteca.c
     gcc -o main.exe main.o biblioteca.o
 
